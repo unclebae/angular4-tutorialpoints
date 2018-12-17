@@ -2,6 +2,7 @@ import { TestBed, async } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';
 
+// 자동으로 생성된 부분으로 유닛 테스트를 포함한다. 
 describe('AppComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
